@@ -1,6 +1,6 @@
 # Hi there, I'm Lakshan Jayawardana! 👋
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=LakshanSj&color=3380ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
