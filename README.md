@@ -10,7 +10,7 @@
 
 I am a motivated **Computer Science & Engineering Undergraduate** at the **University of Moratuwa**, Sri Lanka. I have a passion for designing connected hardware systems, implementing IoT architectures, and building full-stack software applications.
 
-- 🎓 Currently in my 1st Year pursuing my **B.Sc. in Computer Science & Engineering**
+- 🎓 Currently in my 2nd Year pursuing my **B.Sc. in Computer Science & Engineering**
 - 🛠️ Interested in **IoT architectures**, **Cybersecurity**, and **Full-Stack Software Development**
 
 
